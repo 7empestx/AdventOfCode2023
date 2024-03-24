@@ -1,3 +1,3 @@
-Day 1: Complete
-Day 2: Complete
+- Day 1: Complete
+- Day 2: Complete
 
